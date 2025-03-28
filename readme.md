@@ -21,3 +21,16 @@
 :x: 5.0 Draw the borders between clusters in the output image
 
 [Kod](https://github.com/rtsncs/ml/tree/master/2_clustering)
+
+
+**Zadanie 3** Decision trees
+
+:white_check_mark: 3.0 [Rewrite the CART method to the Gini index.](https://github.com/rtsncs/ml/commit/)
+
+:white_check_mark: 3.5 [Use pydot do draw the tree for C4.5 example.](https://github.com/rtsncs/ml/commit/)
+
+:white_check_mark: 4.0 [Implement the minimum number of objects pruning method.](https://github.com/rtsncs/ml/commit/)
+
+:x: 5.0 Plot OC1 tree, but instead of elements id, print the feature id it was split by.
+
+[Kod](https://github.com/rtsncs/ml/tree/master/3_decision_trees)
