@@ -25,11 +25,11 @@
 
 **Zadanie 3** Decision trees
 
-:white_check_mark: 3.0 [Rewrite the CART method to the Gini index.](https://github.com/rtsncs/ml/commit/)
+:white_check_mark: 3.0 [Rewrite the CART method to the Gini index.](https://github.com/rtsncs/ml/commit/c4cb81e61124f34c8e449e8e048c6cf3bf854b26)
 
-:white_check_mark: 3.5 [Use pydot do draw the tree for C4.5 example.](https://github.com/rtsncs/ml/commit/)
+:white_check_mark: 3.5 [Use pydot do draw the tree for C4.5 example.](https://github.com/rtsncs/ml/commit/c4cb81e61124f34c8e449e8e048c6cf3bf854b26)
 
-:white_check_mark: 4.0 [Implement the minimum number of objects pruning method.](https://github.com/rtsncs/ml/commit/)
+:white_check_mark: 4.0 [Implement the minimum number of objects pruning method.](https://github.com/rtsncs/ml/commit/c4cb81e61124f34c8e449e8e048c6cf3bf854b26)
 
 :x: 5.0 Plot OC1 tree, but instead of elements id, print the feature id it was split by.
 
