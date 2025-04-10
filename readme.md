@@ -34,3 +34,19 @@
 :x: 5.0 Plot OC1 tree, but instead of elements id, print the feature id it was split by.
 
 [Kod](https://github.com/rtsncs/ml/tree/master/3_decision_trees)
+
+**Zadanie 4** SVM
+
+:white_check_mark: 3.0 [Implement the polynomial kernel.](https://github.com/rtsncs/ml/commit/df1fb34e505729743cf4e8899e6fa4397c0953d0)
+
+:x: 5.0 Implement the multiclass C-SVM.
+
+[Kod](https://github.com/rtsncs/ml/tree/master/4_svm)
+
+**Zadanie 5** Ensemble
+
+:white_check_mark: 3.0 [Find the best three classifier in the stacking method using the classifiers from scikit-learn package.](https://github.com/rtsncs/ml/commit/74b900f9dcb445fe01fa641356152315a51fc8ac)
+
+:x: 5.0 Build arcing arc-x4 method.
+
+[Kod](https://github.com/rtsncs/ml/tree/master/5_ensemble)
