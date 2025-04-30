@@ -50,3 +50,17 @@
 :x: 5.0 Build arcing arc-x4 method.
 
 [Kod](https://github.com/rtsncs/ml/tree/master/5_ensemble)
+
+**Zadanie 6** NLP
+
+:white_check_mark: 3.0 [Build your own tokenizer, where you need to implement two functions to implement a tokenizer based on regular expression.](https://github.com/rtsncs/ml/commit/002234a556739bf69f2754e49d5a0ba024f3c084)
+
+:white_check_mark: 3.5 [Get tags from Trump speech.](https://github.com/rtsncs/ml/commit/002234a556739bf69f2754e49d5a0ba024f3c084)
+
+:white_check_mark: 4.0 [Get the nouns in the last 10 sentences from Trump's speech and find the nouns divided by sentencens. Use SpaCy.](https://github.com/rtsncs/ml/commit/002234a556739bf69f2754e49d5a0ba024f3c084)
+
+:x: 4.5 Build your own Bag Of Words implementation using tokenizer created before.
+
+:x: 5.0 Build a 5-gram model and clean up the results.
+
+[Kod](https://github.com/rtsncs/ml/tree/master/6_nlp)
